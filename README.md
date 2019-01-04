@@ -7,7 +7,7 @@
 
 ## Install
 * Clone from Github
-    * `git clone ...` @todo change this
+    * `git clone https://github.com/swapnilmanjrekar/learn-travis-php.git`
 * Install dependencies
     * `composer install`
 
