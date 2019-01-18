@@ -1,5 +1,5 @@
 {
-    "name": "josh/learn-travis-php",
+    "name": "swapnilmanjrekar/learn-travis-php",
     "license": "GPL-2.0",
     "require": {
         "php": "^7.1",
